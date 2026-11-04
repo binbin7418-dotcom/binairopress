@@ -1,0 +1,10 @@
+[PASS] counts: 6 puzzles at 8x8 (givens: [18, 18, 18, 18, 16, 18])
+[PASS] every printed solution obeys all four Binairo rules 
+[PASS] every given matches the printed solution 
+[PASS] every puzzle: exactly one completion (independent bit-pattern row recount), equal to printed solution 
+[PASS] tamper: one flipped given breaks the proof (tampered count: 2)
+[PASS] PDF 612x792pt, 11 pages (11)
+[PASS] 6-puzzle book builds in under 180s (0.7s)
+[PASS] deterministic for fixed seed 
+
+8/8 PASS
